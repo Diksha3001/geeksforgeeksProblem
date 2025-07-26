@@ -1,0 +1,17 @@
+package com.DayFive;
+import java.util.*;
+public class Integeroperation {
+
+
+	    public static void main(String args[]) {
+	        // Implement Scanner Class
+	        //  Take input
+	        //  Add 10 and Print
+	        
+	        Scanner sc=new Scanner(System.in);
+	        int n=sc.nextInt();
+	        System.out.println(n+10);
+	    }
+}
+	
+
