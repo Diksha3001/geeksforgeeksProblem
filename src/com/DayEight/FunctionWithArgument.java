@@ -18,6 +18,6 @@ public class FunctionWithArgument {
 	        int no1=sc.nextInt();
 	        int no2=sc.nextInt();
 	        
-	        System.out.println(FunctionWithArgument.argumentFunction(no1,no2));
+	        System.out.print(FunctionWithArgument.argumentFunction(no1,no2));
 	    }
 	}
